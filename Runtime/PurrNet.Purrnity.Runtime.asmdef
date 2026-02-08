@@ -1,0 +1,19 @@
+{
+  "name": "PurrNet.Purrnity.Runtime",
+  "rootNamespace": "PurrNet.Purrnity",
+  "references": [
+    "PurrNet.Runtime",
+    "Unity.Networking.Transport",
+    "Unity.Collections",
+    "Unity.Burst"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

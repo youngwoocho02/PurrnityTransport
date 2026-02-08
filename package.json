@@ -1,0 +1,22 @@
+{
+  "name": "dev.purrnet.purrnity",
+  "displayName": "PurrNet Purrnity Transport",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Unity Transport Package (com.unity.transport) adapter for PurrNet. Provides PurrnityTransport, which implements PurrNet's ITransport interface using Unity's low-level NetworkDriver.",
+  "keywords": [
+    "purrnet",
+    "networking",
+    "multiplayer",
+    "unity transport",
+    "relay",
+    "transport"
+  ],
+  "author": {
+    "name": "DevBookOfArray",
+    "url": "https://github.com/youngwoocho02/PurrNet"
+  },
+  "dependencies": {
+    "com.unity.transport": "2.0.0"
+  }
+}
